@@ -1,0 +1,11 @@
+@use 'custom';
+
+/* --------------------- Importacion de estilo secciones -------------------- */
+@use 'sections/navbar';
+
+
+/* ----------------------- importacion de componentes ----------------------- */
+@use 'components/mixin';
+@use 'components/buttons';
+@use '../SCSS/components/animation.scss';
+@use '../SCSS/components/tipografia.scss';
